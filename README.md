@@ -12,4 +12,4 @@ Maize-GNN是一个深度学习项目，旨在利用 图神经网络 (Graph Neura
 ### 安装步骤
 1. 克隆仓库
    ```bash
-   git clone [https://github.com/biob06604-spec/gnnnnnn]
+   git clone https://github.com/biob06604-spec/gnnnnnn
